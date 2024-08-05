@@ -26,7 +26,7 @@ from aiogram.fsm.context import FSMContext
 
 TOKEN =("")
 
-ADMIN =("779637998")
+ADMIN =("")
 
 
 dp = Dispatcher()
